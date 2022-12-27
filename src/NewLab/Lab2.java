@@ -94,6 +94,10 @@ class Student{
 		System.out.println("Balance: $" + balance);
 		
 	}
+	public void checkBalancss() {
+		System.out.println("Balance: $" + balance);
+		
+	}
 	public void showCourses() {
 		System.out.println(courses);
 		
