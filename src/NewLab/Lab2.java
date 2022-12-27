@@ -95,7 +95,7 @@ class Student{
 		
 	}
 	public void checkBalancss() {
-		System.out.println("Balance: $" + balance);
+		System.out.println("Adding file from github $" + balance);
 		
 	}
 	public void showCourses() {
